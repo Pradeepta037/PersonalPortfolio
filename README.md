@@ -3,4 +3,4 @@ My Portfolio website designed by complete Web Development that shows my skills, 
 
 visit : https://pradeepta037.github.io/PersonalPortfolio/
 
-<img align="center" alt="portfolio" width="400" src="![portfolio](https://github.com/user-attachments/assets/7f77703d-2851-4fe8-bd06-077579571e2e)">
+![img_alt](https://github.com/Pradeepta037/PersonalPortfolio/blob/9f1338dd19c569e18551282b181e231e0871b7f5/assets/images/portfolio.png)
